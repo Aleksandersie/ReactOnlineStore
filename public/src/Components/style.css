@@ -1,0 +1,20 @@
+
+
+.navBar{
+    text-decoration: none;
+    color: wheat;
+    font-size: 27px;
+    font-weight: 300;
+}
+.navBar:hover{
+    text-decoration: none;
+    color: wheat;
+}
+
+.button{
+    color: wheat;
+    font-weight: 300;
+}
+.activeColor:active{
+    background: maroon !important;
+}
